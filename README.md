@@ -32,11 +32,14 @@ The primary aim of the "Eyewitness-Rendered Facial Depiction and Recognition" pr
 1.6.4 Contribution to Forensic Science:
     Make a significant contribution to the field of forensic science by providing law enforcement agencies with an advanced and reliable tool for facial identification
 
+ #GUI :
 
-#GUI
+![spalsh_image](https://github.com/pratikshinde85/godsEye1/assets/92982632/ddda8ff9-a835-4875-8974-c4a2410eb5cc)
 
-![spalsh_image](https://github.com/pratikshinde85/godsEye1/assets/929826![login_screen_](https://github.com/pratikshinde85/godsEye1/assets/92982632/742e8b65-6aa3-4d2a-8a8e-cc3c1151f21e)
+
 
 ![login_screen_](https://github.com/pratikshinde85/godsEye1/assets/92982632/941ff727-140a-4fe8-a0ad-0a4da33eb07c)
+
+
 
 ![menu_screen](https://github.com/pratikshinde85/godsEye1/assets/92982632/48a6c02f-5f54-4cda-bc43-d5459ffc114c)
