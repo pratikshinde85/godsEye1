@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="splash" blendMode="MULTIPLY" cache="true" cacheHint="SPEED" disable="true" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1024.0" styleClass=".root" stylesheets="@style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="godseye.v2.splash_screenController">
+   <children>
+      <ImageView fitHeight="200.0" fitWidth="475.0" layoutX="352.0" layoutY="121.0" opacity="0.63" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@godeye_new.png" />
+         </image>
+      </ImageView>
+      <Text fill="WHITE" fontSmoothingType="LCD" layoutX="312.0" layoutY="363.0" stroke="#df680e" strokeType="OUTSIDE" strokeWidth="0.0" text="Eyewitness-Rendered Facial Depiction and Recognition- GOD’s EYE”" textAlignment="CENTER" wrappingWidth="415.8854064941406">
+         <font>
+            <Font name="Futura Bk BT Book" size="20.0" />
+         </font>
+      </Text>
+      <Text fill="#d9c7b8" layoutX="697.0" layoutY="482.0" opacity="0.56" strokeType="INSIDE" strokeWidth="0.0" text="Creator : Pratik Shinde ,Gaurav ,Jairaj Pratik Bhoite" textAlignment="CENTER" wrappingWidth="226.697021484375">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text fill="#d4d4ff" layoutX="547.0" layoutY="550.0" strokeType="OUTSIDE" strokeWidth="0.0" text="© Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT)" textAlignment="CENTER" wrappingWidth="462.697021484375">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+   </children>
+   <cursor>
+      <Cursor fx:constant="NE_RESIZE" />
+   </cursor>
+</AnchorPane>
